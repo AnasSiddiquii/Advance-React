@@ -1,0 +1,42 @@
+{
+    "products":[
+        
+        {
+            "id":"1",
+            "name":"ROG Phone",
+            "color":"Gray",
+            "price":50000,
+            "category":"Mobile",
+            "brand":"Asus",
+            "photo":"https://s3b.cashify.in/gpro/uploads/2022/08/19192433/asus-rog-phone-6d-back-display.jpg"
+        },
+        {
+            "id":"2",
+            "name":"Tshirt",
+            "color":"Yellow",
+            "price":5000,
+            "category":"Cloth",
+            "brand":"RRR",
+            "photo":"https://cdn.shopify.com/s/files/1/1002/7150/products/New-Mockups---no-hanger---TShirt-Yellow.jpg?v=1639657077"
+        },
+        {
+            "id":"3",
+            "name":"Nothing Phone",
+            "color":"Black",
+            "price":35000,
+            "category":"Mobile",
+            "brand":"Nothing",
+            "photo":"http://cdn.shopify.com/s/files/1/0604/7760/4036/products/nothing-phone-1-smartphone-8gb-128gb-black-32743325073604.jpg?v=1665452604"
+        },
+        {
+            "id":"4",
+            "name":"Sports Shoes",
+            "color":"Red & White",
+            "price":8000,
+            "category":"Shoes",
+            "brand":"Nike",
+            "photo":"https://m.media-amazon.com/images/I/71D9ImsvEtL._UY500_.jpg"
+        }
+    ]
+}
+
